@@ -4,7 +4,7 @@
 Весь мой опыт будет тут.
 
 Он будет написан на Vue / Django, 
-С использованием Docker / Kubernetes.
+c использованием Docker / Kubernetes.
 
 
 
